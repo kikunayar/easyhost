@@ -37,3 +37,7 @@ input("Press Enter to exit...")
 </body>
 </html>
 ```
+**INSTALLATION**
+```
+pip install https://github.com/kikunayar/easyhost.git
+```
