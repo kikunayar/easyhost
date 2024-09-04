@@ -4,7 +4,7 @@
 ```
 import easyhost.EasyHost as eh
 host1 = eh.EasyHost(port=1234) # turn on http://localhost:1234/
-host1.set(route='/wasdwasdwasd', file='example.html') 
+host1.set(route='/wasdwasdwasd', file='example.png') also able .html .mp4 etc..
 input("Press Enter to exit...")
 ```
 
