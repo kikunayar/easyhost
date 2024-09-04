@@ -1,8 +1,0 @@
-setup.py
-easyhost/EasyHost.py
-easyhost/EasyHostV2.py
-easyhost/__init__.py
-easyhost.egg-info/PKG-INFO
-easyhost.egg-info/SOURCES.txt
-easyhost.egg-info/dependency_links.txt
-easyhost.egg-info/top_level.txt
